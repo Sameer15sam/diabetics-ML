@@ -33,11 +33,11 @@ Model	Type
  K-Nearest Neighbors	Instance-based
  MLPClassifier (Neural Net)	Feedforward NN
  
-📊 Results Snapshot (Example)
+📊 Results Snapshot:
  Model	Accuracy
- Logistic Regression	76%
- SVM (RBF)	78%
- Random Forest	82%
- XGBoost	84%
- KNN	74%
+ Logistic Regression	76%,
+ SVM (RBF)	78%,
+ Random Forest	82%,
+ XGBoost	84%,
+ KNN	74%,
  MLPClassifier	79%
