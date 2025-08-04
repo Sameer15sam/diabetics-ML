@@ -1,13 +1,13 @@
-#📊 Diabetes Prediction using Machine Learning
+📊 Diabetes Prediction using Machine Learning
 
 Predicting the likelihood of diabetes using various machine learning models.
 This project compares multiple algorithms including Logistic Regression, Random Forest, XGBoost, K-Nearest Neighbors (KNN), and Neural Networks (MLP).
 
-#🧠 Objective
+🧠 Objective
 To develop and evaluate machine learning models that can predict whether a patient is likely to have diabetes based on diagnostic data.
 📁 Dataset
 Name: Pima Indians Diabetes Dataset
-#Source: Kaggle
+Source: Kaggle
 Features:
  Pregnancies
  Glucose
@@ -19,13 +19,13 @@ Features:
  Age
  Outcome (0: No Diabetes, 1: Diabetes)
 
-#Technologies Used:
+Technologies Used:
  Python,Pandas, NumPy
  Scikit-learn,XGBoost
  Matplotlib, Seaborn
  Machine Learning Models Applied
  
-#Model	Type
+Model	Type
  Logistic Regression	Linear Classifier
  Support Vector Machine (SVM)	Margin-Based Classifier
  Random Forest	Ensemble (Bagging)
@@ -33,7 +33,7 @@ Features:
  K-Nearest Neighbors	Instance-based
  MLPClassifier (Neural Net)	Feedforward NN
  
-#📊 Results Snapshot:
+📊 Results Snapshot:
  Model	Accuracy
  Logistic Regression	76%,
  SVM (RBF)	78%,
